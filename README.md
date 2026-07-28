@@ -75,6 +75,7 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=0CECCC)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=0CECCC)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=0CECCC)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=0CECCC)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=0CECCC)
 ![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=0CECCC)
 
@@ -86,6 +87,7 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&width=300&height=40&lines=Currently" alt="Currently"/>
 
+- Interning as a Machine Learning Intern at Flyrank
 - Picking up applied machine learning fundamentals in Python
 - Deepening data structures & algorithms practice through daily problem-solving
 
@@ -99,6 +101,12 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 <th>Description</th>
 <th>Stack</th>
 <th>Link</th>
+</tr>
+<tr>
+<td><b style="color:#0CECCC;">Manzil — AI Education Platform</b></td>
+<td>Full-stack, deployed AI platform helping Pakistani students find universities and scholarships matched to their budget and grades, powered by the Gemini API.</td>
+<td><img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=0CECCC"/> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=0CECCC"/> <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=0CECCC"/></td>
+<td><a href="https://github.com/kamer-heap/manzil"><img src="https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=0CECCC"/></a> <a href="https://manzil-mu.vercel.app"><img src="https://img.shields.io/badge/-Live%20Demo-0CECCC?style=flat-square&logo=vercel&logoColor=0D1117"/></a></td>
 </tr>
 <tr>
 <td><b style="color:#0CECCC;">Network Traffic Monitor</b></td>
@@ -192,6 +200,4 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 
 <sub>© 2026 Khadija Amer. Open to opportunities and collaboration.</sub>
 
-</div> 
- 
- 
+</div>
