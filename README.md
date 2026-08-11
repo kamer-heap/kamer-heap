@@ -87,7 +87,6 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&width=300&height=40&lines=Currently" alt="Currently"/>
 
-- Interning as a Machine Learning Intern at Flyrank
 - Picking up applied machine learning fundamentals in Python
 - Deepening data structures & algorithms practice through daily problem-solving
 
